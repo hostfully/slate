@@ -17,7 +17,7 @@ toc_footers:
 search: true
 ---
 
-# Getting Started
+# Getting Started with the Guidebook Platform API
 
 This page will help you get started with the Hostfully Guidebook Platform API. You'll be up and running in a jiffy!
 
